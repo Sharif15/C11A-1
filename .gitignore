@@ -1,0 +1,7 @@
+
+#ignore all the executable files
+
+/bin
+*.class
+.project
+.classpath
